@@ -1,0 +1,7 @@
+..\ssd_workspace\image_dataset\images/arduino_17.jpg
+..\ssd_workspace\image_dataset\images/arduino_4.jpg
+..\ssd_workspace\image_dataset\images/esp32_12.jpg
+..\ssd_workspace\image_dataset\images/esp32_21.jpg
+..\ssd_workspace\image_dataset\images/esp32_9.jpg
+..\ssd_workspace\image_dataset\images/microbit_17.jpg
+..\ssd_workspace\image_dataset\images/microbit_4.jpg
