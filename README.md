@@ -1,4 +1,4 @@
-# wifi_controlled_robot
+# A custom SSD(Single Shot Detector) object detection project
 
 
 
