@@ -33,23 +33,24 @@ ITEMS_TO_DESCRIPTIONS = {
 # (Images, Objects) statistics on every class.
 TRAIN_STATISTICS = {
     'none': (0, 0),
-    'arduino': (19, 20),
-    'microbit': (18, 22),
-    'esp32': (,),
+    'arduino': (23, 23),
+    'microbit': (23, 23),
+    'esp32': (22,22),
 	}
 	
 	
 TEST_STATISTICS = {
     'none': (0, 0),
-    'headphone': (1, 1),
-    'earphone': (2, 2)
+    'arduino': (2, 2),
+    'microbit': (2, 2),
+    'esp32': (3,3),
 	}	
 
 	
 	
 SPLITS_TO_SIZES = {
-    'train': 37,  #Training data volume
-    'test': 3,   #Test data volume
+    'train': 68,  #Training data volume
+    'test': 7,   #Test data volume
 }
 SPLITS_TO_STATISTICS = {
     'train': TRAIN_STATISTICS,

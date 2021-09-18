@@ -33,15 +33,17 @@ ITEMS_TO_DESCRIPTIONS = {
 # (Images, Objects) statistics on every class.
 TRAIN_STATISTICS = {
     'none': (0, 0),
-    'headphone': (19, 20),
-    'earphone': (18, 22),
+    'arduino': (23, 23),
+    'microbit': (23, 23),
+    'esp32': (22,22),
 	}
 	
 	
 TEST_STATISTICS = {
     'none': (0, 0),
-    'headphone': (1, 1),
-    'earphone': (2, 2)
+    'arduino': (2, 2),
+    'microbit': (2, 2),
+    'esp32': (3,3),
 	}	
 
 	
